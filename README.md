@@ -5,8 +5,6 @@ It creates strong, random passwords like those recommended by Google, and includ
 
 Created by [Space‑00](https://github.com/Space-00).
 
-![Screenshot](url)
-
 ## Features
 
 - Three generation modes  
